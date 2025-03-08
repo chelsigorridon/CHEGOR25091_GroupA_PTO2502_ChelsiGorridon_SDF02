@@ -1,0 +1,54 @@
+h1 {
+    color: blue;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-weight: bold;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    
+}
+
+.Aboutpage {
+    color:  rgb(12, 19, 58);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.Skillspage{
+    color: rgb(12, 19, 58);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.Portfoliopage{
+    color:  rgb(12, 19, 58);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.ContactPage{
+    color:  rgb(12, 19, 58);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    color: blue;
+    font-family:Arial, Helvetica, sans-serif ;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin-left: 75px;
+    
+}
+
+MrCat{
+    border-radius: 20px;
+    width: fit-content;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
