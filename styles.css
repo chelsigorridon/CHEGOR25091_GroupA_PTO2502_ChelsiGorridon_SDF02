@@ -1,11 +1,17 @@
+
+body{
+    background-color: rgb(215, 241, 232);
+}
+
+
 h1 {
     color: blue;
-    font-family:Arial, Helvetica, sans-serif ;
+    font-family: Arial, Helvetica, sans-serif ;
     font-weight: bold;
     border-style: solid;
     border-color: black;
     border-radius: 20px;
-    margin-top: 50px;
+    margin-top: 30px;
     margin-bottom: 50px;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -42,7 +48,7 @@ h2 {
     font-family:Arial, Helvetica, sans-serif ;
     margin-top: 40px;
     margin-bottom: 10px;
-    margin-left: 75px;
+    
     
 }
 
@@ -51,4 +57,42 @@ MrCat{
     width: fit-content;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+p {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img[alt~="CatCondo"] {
+    border-radius: 50px;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+
+img[alt~="Catniptoys"] {
+    border-radius: 50px;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+
+img[alt~="meow&hiss"] {
+    border-radius: 50px;
+    margin-bottom: 15px;
+    margin-top: 20px;
 }
