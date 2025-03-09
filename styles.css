@@ -96,3 +96,48 @@ img[alt~="meow&hiss"] {
     margin-bottom: 15px;
     margin-top: 20px;
 }
+
+label {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#Name {
+ 
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+#Email {
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+textarea {
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+button {
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100px;
+    border-color: blue;
+    font-size: 15px;
+    font-weight: bold;
+    box-shadow: 20px;
+    box-sizing: border-box;
+    background-color: rgb(205, 206, 212);
+    margin-bottom: 40px;
+}
+
+#Companyreg {
+    font-weight: bold;
+}
+
