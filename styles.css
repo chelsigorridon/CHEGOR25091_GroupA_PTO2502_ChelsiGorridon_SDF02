@@ -131,12 +131,20 @@ button {
     border-color: blue;
     font-size: 15px;
     font-weight: bold;
-    box-shadow: 20px;
+    box-shadow: 20px color( rgb(29, 29, 104));
     box-sizing: border-box;
     background-color: rgb(205, 206, 212);
     margin-bottom: 40px;
+    display: inline-block;
+    transition-duration: 0.04s;
+    cursor: pointer;
+    
 }
 
+button:hover {
+    background-color: #191fcc;
+    color: white
+}
 #Companyreg {
     font-weight: bold;
 }
